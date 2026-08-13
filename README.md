@@ -1,0 +1,69 @@
+# Journeyboard 🌍
+
+A simple travel-themed React project built while learning and practicing **React `useState`**.
+
+## 📌 About the Project
+
+Journeyboard is a small travel-themed website where I practiced building React components and managing UI state using `useState`.
+
+The project includes basic pages such as Home, Destinations, About, and Contact.
+
+This is mainly a **learning project**, created to understand React state management and component-based development.
+
+## 🚀 Features
+
+- 🏠 Home page
+- 🌍 Destinations page
+- ℹ️ About page
+- 📩 Contact page
+- 🧭 Navigation between pages
+- ⚛️ React `useState` implementation
+- 📱 Responsive layout
+- 🎨 Tailwind CSS styling
+
+## 🛠️ Tech Stack
+
+- React
+- JavaScript
+- Tailwind CSS
+- Vite
+
+## 📚 What I Learned
+
+While building this project, I practiced:
+
+- Using `useState` in React
+- Managing component state
+- Updating the UI based on state changes
+- Creating React components
+- Passing and managing data between components
+- Working with React project structure
+- Styling with Tailwind CSS
+
+## 🔮 Future Improvements
+
+I may add the following features in the future:
+
+- 🔍 Search destinations
+- ❤️ Favorite destinations
+- 🌎 More destination data
+- 🔐 User authentication
+- 🗄️ Backend integration
+- 💾 Database support
+- ✨ More interactive features
+
+## 📸 Project Preview
+
+### About Page
+
+![About Page](./screenshots/about.png)
+
+### Destinations Page
+
+![Destinations Page](./screenshots/destinations.png)
+
+## 👨‍💻 Author
+
+**Shubh Chincholkar**
+
+Built while learning React and improving my frontend development skills.
