@@ -54,13 +54,13 @@ I may add the following features in the future:
 
 ## 📸 Project Preview
 
-### About Page
-
-![About Page](./screenshots/about.png)
+### Home Page
+<img width="1901" height="901" alt="Screenshot 2026-07-09 231410 - Copy" src="https://github.com/user-attachments/assets/65d1b18b-9f88-440d-bc50-105430e34e6d" />
 
 ### Destinations Page
 
-![Destinations Page](./screenshots/destinations.png)
+<img width="1917" height="773" alt="Screenshot 2026-07-09 231417" src="https://github.com/user-attachments/assets/b1fe9d65-d1dc-4d02-a57c-615cf8d5c4d8" />
+
 
 ## 👨‍💻 Author
 
